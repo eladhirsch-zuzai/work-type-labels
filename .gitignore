@@ -1,1 +1,15 @@
 .DS_Store
+.venv/
+__pycache__/
+models/
+*.pt
+*.safetensors
+.idea/
+data/emb/
+data/oof/
+data/holdout_scores/
+data/logs/
+data/*.log
+data/ft/
+data/exports/
+data/predictions_dryrun*
